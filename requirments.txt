@@ -14,5 +14,4 @@ pyserial==3.5
 python-dotenv==1.0.1
 PyYAML==6.0.1
 reedsolo==1.7.0
-setuptools==70.1.0
 six==1.16.0
